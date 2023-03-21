@@ -1,0 +1,5 @@
+# Defaults
+.DS_Store
+
+# Files
+.gitattributes
