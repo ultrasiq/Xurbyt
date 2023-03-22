@@ -1,3 +1,3 @@
 # Where is Xur?
 
-Location tracker for the Destiny 2 NPC Exoctic equipment vendor Xur
+Location tracker for the Destiny 2 NPC Exotic equipment vendor Xur
