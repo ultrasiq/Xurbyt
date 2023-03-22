@@ -10,7 +10,7 @@ load("render.star", "render")
 load("secret.star", "secret")
 
 # NOTE: Encrypt your API token using pixlet encrypt i.e. `pixlet encrypt myapp "my-super-secret-auth-token"`
-# DESTINY_API_KEY = secret.decrypt(<Then enter your encrypted token here, and uncomment this line>)
+# DESTINY_API_KEY = secret.decrypt("AV6+xWcEwljnSZth3ehEP25KTp+nAGMS6DUWflIhWRBFueZIBmD4C00meZgjHLzZHdpBkpcfMI5VuWlR3lek2xLV1jEPa4LAja37bsTjXs/BooXAUrKRtM04V19JpW9zYVjtne1lKTqC/EHi9BNTWKESl3s202sKQyplmifhgL9nrm5yD7g=")
 HEADERS = {"X-API-Key": DESTINY_API_KEY}
 BASE_URL = "https://www.bungie.net/Platform/Destiny2"
 
