@@ -1,7 +1,7 @@
 """
 Applet: Xurbyt
 Summary: Location tracker for Xur
-Description: Location tracker for the Destiny 2 NPC Exoctic equipment vender Xur.
+Description: Location tracker for the Destiny 2 NPC Exoctic equipment vendor Xur.
 Author: ultrasiq
 """
 
